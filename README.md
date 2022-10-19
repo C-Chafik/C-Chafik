@@ -5,5 +5,3 @@
 
 - Student at 42 school
 - 100% learning
-- C
-- C++
