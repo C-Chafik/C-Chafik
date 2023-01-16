@@ -7,6 +7,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouf-chafik/)
 
+# Actually learning
+
+- React
+- Nest
 
 # Sector
 
@@ -22,3 +26,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=C-Chafik&show_icons=true&bg_color=00000000)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C-Chafik&theme=blueberry&hide_border=false)<br/>
+
+[![](https://badge42.vercel.app/api/v2/stats/7b594c261bf8da65f5186990cbb213059f0558c9c60c7fc3c45de5158f8a9b7a?cursusId=21)](https://github.com/C-Chafik)
