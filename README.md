@@ -23,7 +23,6 @@
 
 # Badges
 
-![](https://github-readme-stats.vercel.app/api?username=C-Chafik&show_icons=true&bg_color=00000000)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C-Chafik&theme=blueberry&hide_border=false)<br/>
 
