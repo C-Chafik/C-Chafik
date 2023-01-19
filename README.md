@@ -24,6 +24,4 @@
 # Badges
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=C-Chafik&theme=blueberry&hide_border=false)<br/>
-
-[![](https://badge42.vercel.app/api/v2/stats/7b594c261bf8da65f5186990cbb213059f0558c9c60c7fc3c45de5158f8a9b7a?cursusId=21)](https://github.com/C-Chafik)
+[![cmarouf's 42 stats](https://badge42.vercel.app/api/v2/cl180kfgf000609l6w6dcu0bo/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
