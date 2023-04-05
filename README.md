@@ -8,6 +8,7 @@ Hello, I'm Chafik Marouf, a passionate and resourceful software developer, curre
 
 🔗 Or contact me:
 
+marouf.chafik@hotmail.com
 
 ## 🛠️ Skills & Technologies
 
@@ -15,7 +16,10 @@ Hello, I'm Chafik Marouf, a passionate and resourceful software developer, curre
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![UNIX](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🏆 42 School Badges & Stats
 
