@@ -21,6 +21,8 @@ marouf.chafik@hotmail.com
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+But is in love with everything low-level
+
 ## 🏆 42 School Badges & Stats
 
 [![cmarouf's 42 stats](https://badge42.vercel.app/api/v2/cl180kfgf000609l6w6dcu0bo/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
